@@ -1,4 +1,4 @@
-package com.openknot.projectservice
+package com.openknot.project
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
